@@ -1,4 +1,4 @@
-# FUNDAMENTOS-DE-PROGRAMACION-I-EN-LA-UEA
+# FUNDAMENTOS DE PROGRAMACIÓN I EN LA UEA
 Repositorio para actividades prácticas de la asignatura Fundamentos de Programación de la Carrera Tecnología de la Información en la Universidad Estatal Amazónica. Su propósito es proporcionar ejercicios y proyectos para desarrollar habilidades en programación estructurada y lógica de programación.
 
 # Contenidos
